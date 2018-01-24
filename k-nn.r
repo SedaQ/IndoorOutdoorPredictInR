@@ -3,7 +3,7 @@
 #install.packages("MASS")
 #install.packages("ElemStatLearn")
 #install.packages('caret')
-
+#install.packages('e1071')
 #https://daviddalpiaz.github.io/r4sl/k-nearest-neighbors.html
 
 # Fitting K-NN to the Training set and Predicting the Test set results
